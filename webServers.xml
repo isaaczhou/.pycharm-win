@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="82b51b30-0e54-4751-b76f-205a3b7495af" name="biomefx-be" url="http://172.16.200.190">
+        <fileTransfer host="172.16.200.190" port="22" rootFolder="/home/isaac.zhou" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" keepAliveTimeout="10000" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
