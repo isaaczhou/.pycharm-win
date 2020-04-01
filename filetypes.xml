@@ -5,6 +5,7 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="index_config" type="PLAIN_TEXT" />
       <mapping ext="tab" type="PLAIN_TEXT" />
       <mapping ext="cookie" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
