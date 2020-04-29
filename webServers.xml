@@ -41,6 +41,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="2f1b4885-5d9d-456c-8a69-0623a2692f50" name="ncov-iz" url="http://10.0.0.96">
+        <fileTransfer host="10.0.0.96" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="5000" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
