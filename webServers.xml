@@ -4,7 +4,7 @@
       <webServer id="82b51b30-0e54-4751-b76f-205a3b7495af" name="biomefx-be" url="http://10.0.0.96">
         <fileTransfer host="10.0.0.96" port="22" rootFolder="/root" accessType="SFTP">
           <advancedOptions>
-            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" keepAliveTimeout="10000" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" keepAliveTimeout="5000" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
