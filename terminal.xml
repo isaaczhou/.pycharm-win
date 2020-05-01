@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="&quot;C:\myprograms\git\bin\sh.exe&quot; --login" />
-    <option name="myTabName" value="git" />
+    <option name="myShellPath" value="C:\Windows\System32\wsl.exe " />
+    <option name="myTabName" value="wsl" />
   </component>
 </application>
