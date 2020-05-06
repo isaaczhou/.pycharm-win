@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="&quot;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps\ubuntu&quot; run" />
-    <option name="myTabName" value="wsl" />
+    <option name="myShellPath" value="&quot;C:\myprograms\Git\bin\bash.exe&quot; --login -i" />
+    <option name="myTabName" value="git" />
   </component>
 </application>
