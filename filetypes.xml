@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <removed_mapping ext="tsv" type="CSV/TSV" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="index_config" type="PLAIN_TEXT" />
       <mapping pattern="release_version" type="PLAIN_TEXT" />
@@ -10,8 +9,6 @@
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping ext="cookie" type="PLAIN_TEXT" />
       <mapping ext="tab" type="PLAIN_TEXT" />
-      <mapping ext="tsv" type="PLAIN_TEXT" />
-      <removed_mapping ext="tsv" type="CSV/TSV" />
     </extensionMap>
   </component>
 </application>

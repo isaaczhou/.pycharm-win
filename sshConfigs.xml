@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="10.0.0.96" id="4ecd6f7e-1acc-4ec5-b7c1-f84d373019c7" port="22" customName="biomefx-be" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="biomefx-be" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
